@@ -125,6 +125,7 @@ def main():
                         kind = True
                     else:
                         kind = False
+                    board = Board()
                     playerI = Player('black', board.board, choice, True, choice, engine)
                     playerII = Player('white', board.board, choice, kind, choice, engine)
                     play = True
