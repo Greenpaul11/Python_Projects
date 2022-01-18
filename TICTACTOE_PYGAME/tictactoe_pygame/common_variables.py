@@ -1,0 +1,13 @@
+# set common variables 
+WHITE = (255, 255, 255)
+CHALK = (255, 255, 255)
+BROWN = (200, 150, 100)
+HIGHLIGHT = (200, 200, 200)
+W_WIDTH = 730
+W_HEIGHT = 600
+W_SPACE = 183
+GAP = 25
+HALF = int(W_SPACE / 2)  
+MARGIN_X = 90
+MARGIN_Y = 25
+FPS = 60
